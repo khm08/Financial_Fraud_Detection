@@ -1,5 +1,3 @@
-# Financial_Fraud_Detection
-
 # Financial Fraud Detection Project
 
 ## Project Overview
