@@ -1,0 +1,1001 @@
+customer_id,age,region
+1,56,Asia
+2,69,Asia
+3,46,North America
+4,32,Africa
+5,60,South America
+6,25,Europe
+7,38,North America
+8,56,North America
+9,36,Europe
+10,40,South America
+11,28,North America
+12,28,North America
+13,41,Africa
+14,53,South America
+15,57,North America
+16,41,South America
+17,20,Europe
+18,39,Asia
+19,19,North America
+20,41,Africa
+21,61,Europe
+22,47,South America
+23,55,Europe
+24,19,North America
+25,38,South America
+26,50,Asia
+27,29,Europe
+28,39,North America
+29,61,Africa
+30,42,South America
+31,66,Europe
+32,44,Europe
+33,59,Asia
+34,45,Asia
+35,33,Africa
+36,32,Africa
+37,64,North America
+38,68,North America
+39,61,Africa
+40,69,Africa
+41,20,South America
+42,54,Asia
+43,68,North America
+44,24,Asia
+45,38,Asia
+46,26,Africa
+47,56,South America
+48,35,Europe
+49,21,South America
+50,42,South America
+51,31,Asia
+52,67,South America
+53,26,North America
+54,43,Asia
+55,19,North America
+56,37,Europe
+57,45,Asia
+58,64,Europe
+59,24,Asia
+60,61,Africa
+61,25,South America
+62,64,Africa
+63,52,Europe
+64,31,South America
+65,34,Asia
+66,53,South America
+67,67,North America
+68,57,South America
+69,21,North America
+70,19,South America
+71,23,North America
+72,59,Europe
+73,21,Africa
+74,46,Asia
+75,35,South America
+76,43,Africa
+77,61,Asia
+78,51,Asia
+79,27,North America
+80,53,Europe
+81,31,Europe
+82,48,Africa
+83,65,Europe
+84,32,South America
+85,25,Europe
+86,31,Africa
+87,40,Europe
+88,57,South America
+89,38,North America
+90,33,Africa
+91,62,North America
+92,35,North America
+93,64,North America
+94,41,Asia
+95,43,Asia
+96,42,North America
+97,62,Africa
+98,58,South America
+99,46,South America
+100,32,Europe
+101,62,Africa
+102,18,Asia
+103,42,North America
+104,24,Europe
+105,26,South America
+106,41,Asia
+107,18,Asia
+108,61,North America
+109,25,South America
+110,41,Africa
+111,28,Asia
+112,68,North America
+113,34,Africa
+114,25,South America
+115,52,Asia
+116,52,Africa
+117,50,Africa
+118,22,Africa
+119,59,Asia
+120,56,Asia
+121,58,Europe
+122,45,South America
+123,24,North America
+124,26,Africa
+125,25,Europe
+126,29,North America
+127,51,Europe
+128,50,Asia
+129,65,Africa
+130,40,North America
+131,41,North America
+132,54,North America
+133,52,North America
+134,61,North America
+135,57,Europe
+136,39,Africa
+137,44,Asia
+138,52,Asia
+139,18,Asia
+140,52,Asia
+141,54,Europe
+142,64,South America
+143,31,Africa
+144,20,North America
+145,18,South America
+146,22,Asia
+147,43,South America
+148,31,Africa
+149,56,North America
+150,44,North America
+151,26,Africa
+152,32,Africa
+153,32,Asia
+154,43,North America
+155,59,South America
+156,30,Europe
+157,68,Europe
+158,49,Africa
+159,56,Asia
+160,66,Europe
+161,69,North America
+162,49,Africa
+163,21,South America
+164,47,Africa
+165,54,South America
+166,40,Africa
+167,56,Africa
+168,62,Africa
+169,32,South America
+170,60,South America
+171,46,Africa
+172,53,Europe
+173,30,Asia
+174,49,Asia
+175,24,Asia
+176,68,South America
+177,39,South America
+178,45,Europe
+179,19,Asia
+180,59,Asia
+181,62,Africa
+182,23,South America
+183,45,Asia
+184,45,Europe
+185,61,Europe
+186,61,Asia
+187,37,South America
+188,47,Europe
+189,28,Africa
+190,45,Europe
+191,42,North America
+192,56,North America
+193,50,South America
+194,18,Asia
+195,44,South America
+196,69,South America
+197,30,South America
+198,58,South America
+199,20,Africa
+200,56,Africa
+201,23,Europe
+202,25,North America
+203,44,South America
+204,26,Europe
+205,54,North America
+206,50,Asia
+207,68,Africa
+208,59,North America
+209,61,Asia
+210,41,North America
+211,32,Africa
+212,49,Africa
+213,49,Europe
+214,41,South America
+215,58,North America
+216,69,North America
+217,66,Asia
+218,66,Africa
+219,69,North America
+220,29,Africa
+221,56,North America
+222,19,Europe
+223,20,South America
+224,66,North America
+225,54,Africa
+226,66,Europe
+227,34,North America
+228,66,Asia
+229,19,South America
+230,19,North America
+231,45,Europe
+232,40,Asia
+233,54,Europe
+234,49,Europe
+235,50,Asia
+236,18,Europe
+237,36,Asia
+238,19,North America
+239,61,Asia
+240,43,Asia
+241,49,South America
+242,23,Asia
+243,49,Asia
+244,21,North America
+245,28,South America
+246,34,Africa
+247,55,North America
+248,41,North America
+249,22,Africa
+250,69,Asia
+251,51,Europe
+252,23,South America
+253,39,Europe
+254,28,Africa
+255,65,North America
+256,33,North America
+257,50,South America
+258,26,North America
+259,23,North America
+260,33,South America
+261,46,South America
+262,20,Africa
+263,37,North America
+264,53,North America
+265,36,Africa
+266,43,Asia
+267,20,Asia
+268,36,Asia
+269,37,Africa
+270,49,North America
+271,24,Africa
+272,69,Africa
+273,58,Asia
+274,50,Europe
+275,57,North America
+276,56,Asia
+277,35,Europe
+278,57,Europe
+279,18,South America
+280,28,North America
+281,45,Europe
+282,42,Asia
+283,67,South America
+284,40,North America
+285,48,Africa
+286,47,Asia
+287,59,Europe
+288,52,Europe
+289,24,Asia
+290,33,Europe
+291,43,South America
+292,65,North America
+293,69,South America
+294,66,Europe
+295,19,Africa
+296,18,North America
+297,65,North America
+298,29,Asia
+299,22,Asia
+300,54,Africa
+301,49,North America
+302,26,Africa
+303,58,Asia
+304,52,Asia
+305,36,North America
+306,65,South America
+307,33,Europe
+308,20,Asia
+309,37,Asia
+310,41,South America
+311,50,South America
+312,41,Africa
+313,69,Africa
+314,28,Europe
+315,66,Europe
+316,25,North America
+317,53,Africa
+318,55,Asia
+319,57,Africa
+320,37,Asia
+321,52,South America
+322,65,Africa
+323,42,South America
+324,52,Europe
+325,42,Europe
+326,46,North America
+327,35,Africa
+328,63,South America
+329,35,Asia
+330,19,Europe
+331,52,Europe
+332,33,Asia
+333,58,South America
+334,53,South America
+335,50,Africa
+336,21,Africa
+337,50,North America
+338,31,Europe
+339,38,Africa
+340,65,South America
+341,37,Asia
+342,25,South America
+343,24,Europe
+344,20,South America
+345,34,North America
+346,50,Europe
+347,65,Asia
+348,29,North America
+349,68,Europe
+350,39,Asia
+351,39,North America
+352,63,North America
+353,47,Europe
+354,55,Africa
+355,55,North America
+356,62,North America
+357,68,Asia
+358,25,South America
+359,44,Europe
+360,44,Europe
+361,51,Africa
+362,38,Africa
+363,47,Europe
+364,50,Africa
+365,45,Asia
+366,64,Europe
+367,50,Africa
+368,22,Europe
+369,65,South America
+370,36,North America
+371,21,Europe
+372,52,North America
+373,66,Africa
+374,34,North America
+375,61,Europe
+376,45,South America
+377,47,Africa
+378,46,Europe
+379,63,Africa
+380,23,Asia
+381,52,North America
+382,58,Asia
+383,54,Europe
+384,41,South America
+385,46,Africa
+386,66,North America
+387,63,Africa
+388,48,Europe
+389,52,Africa
+390,50,North America
+391,69,Europe
+392,38,Africa
+393,49,South America
+394,40,Europe
+395,50,Europe
+396,20,South America
+397,35,Asia
+398,42,North America
+399,59,Asia
+400,48,Africa
+401,20,South America
+402,57,Asia
+403,63,Europe
+404,41,Africa
+405,67,Africa
+406,49,Asia
+407,64,Asia
+408,39,South America
+409,40,North America
+410,19,Asia
+411,44,Asia
+412,59,Europe
+413,19,Africa
+414,43,North America
+415,34,Europe
+416,57,South America
+417,50,South America
+418,26,Asia
+419,60,Asia
+420,65,South America
+421,56,Asia
+422,46,North America
+423,59,Asia
+424,43,Africa
+425,52,Asia
+426,67,Europe
+427,42,North America
+428,41,Europe
+429,30,Europe
+430,24,Africa
+431,53,North America
+432,62,North America
+433,37,North America
+434,18,North America
+435,25,North America
+436,63,Africa
+437,33,Asia
+438,31,Europe
+439,29,North America
+440,68,Asia
+441,40,Asia
+442,32,Europe
+443,45,Africa
+444,51,South America
+445,19,South America
+446,49,Asia
+447,40,Europe
+448,39,South America
+449,68,Asia
+450,42,Africa
+451,39,South America
+452,39,Asia
+453,66,Asia
+454,69,North America
+455,59,Africa
+456,23,North America
+457,32,Europe
+458,60,North America
+459,54,North America
+460,50,South America
+461,25,Asia
+462,61,Africa
+463,61,North America
+464,22,Africa
+465,56,North America
+466,21,Europe
+467,23,North America
+468,62,South America
+469,49,Asia
+470,69,Europe
+471,47,North America
+472,64,Africa
+473,52,Europe
+474,57,Europe
+475,69,North America
+476,33,Europe
+477,30,Africa
+478,67,Europe
+479,59,Africa
+480,47,North America
+481,36,Asia
+482,34,Europe
+483,36,Asia
+484,45,Africa
+485,43,Europe
+486,54,South America
+487,43,Asia
+488,40,Europe
+489,26,Asia
+490,29,Europe
+491,18,North America
+492,18,Asia
+493,64,South America
+494,51,South America
+495,49,Africa
+496,65,Europe
+497,42,Asia
+498,57,Africa
+499,62,Asia
+500,18,Europe
+501,33,South America
+502,56,North America
+503,22,South America
+504,39,Africa
+505,46,North America
+506,20,Africa
+507,29,Europe
+508,43,North America
+509,33,Africa
+510,68,Europe
+511,54,South America
+512,39,Europe
+513,46,Asia
+514,31,Europe
+515,45,Europe
+516,22,Asia
+517,64,Africa
+518,66,Africa
+519,47,Europe
+520,63,Asia
+521,69,Asia
+522,22,South America
+523,29,Africa
+524,33,North America
+525,43,Africa
+526,43,Africa
+527,65,South America
+528,38,North America
+529,56,South America
+530,53,North America
+531,50,Europe
+532,47,North America
+533,54,South America
+534,40,Africa
+535,27,North America
+536,22,North America
+537,53,Asia
+538,51,Africa
+539,69,Europe
+540,48,South America
+541,27,Europe
+542,36,Africa
+543,49,North America
+544,18,North America
+545,22,Africa
+546,62,North America
+547,21,North America
+548,33,North America
+549,41,South America
+550,33,South America
+551,19,Asia
+552,66,Europe
+553,45,Africa
+554,49,Africa
+555,44,Africa
+556,37,Asia
+557,41,South America
+558,29,Asia
+559,67,Africa
+560,52,Europe
+561,50,North America
+562,50,South America
+563,68,South America
+564,60,Asia
+565,54,South America
+566,29,Africa
+567,20,Africa
+568,18,Asia
+569,50,Africa
+570,57,Europe
+571,27,Asia
+572,60,Europe
+573,61,North America
+574,46,Europe
+575,30,North America
+576,29,North America
+577,48,Europe
+578,63,Asia
+579,19,Africa
+580,68,Africa
+581,67,North America
+582,52,North America
+583,40,Asia
+584,34,South America
+585,43,Europe
+586,25,North America
+587,46,Africa
+588,43,Asia
+589,27,Europe
+590,43,Asia
+591,51,Europe
+592,68,Europe
+593,58,North America
+594,24,Asia
+595,21,Asia
+596,67,Africa
+597,62,Africa
+598,28,North America
+599,46,North America
+600,53,South America
+601,42,Africa
+602,38,Europe
+603,53,Asia
+604,27,North America
+605,54,Asia
+606,26,Asia
+607,41,South America
+608,52,Africa
+609,66,North America
+610,52,Asia
+611,65,North America
+612,53,Europe
+613,35,South America
+614,66,Europe
+615,56,North America
+616,49,North America
+617,41,Africa
+618,40,Asia
+619,49,Asia
+620,54,Europe
+621,29,South America
+622,66,Asia
+623,30,Africa
+624,40,Europe
+625,42,Europe
+626,52,Africa
+627,58,South America
+628,47,Africa
+629,34,South America
+630,66,Africa
+631,37,Africa
+632,65,North America
+633,42,Europe
+634,39,Africa
+635,30,Africa
+636,36,Asia
+637,66,Europe
+638,53,Asia
+639,29,Europe
+640,58,Asia
+641,36,Africa
+642,29,Africa
+643,26,North America
+644,24,Asia
+645,45,South America
+646,31,North America
+647,48,Asia
+648,69,Asia
+649,36,North America
+650,64,Africa
+651,33,Asia
+652,22,Africa
+653,52,North America
+654,29,Africa
+655,42,Europe
+656,69,South America
+657,38,Asia
+658,53,South America
+659,40,Africa
+660,33,Asia
+661,56,Africa
+662,62,Europe
+663,59,North America
+664,56,Asia
+665,31,Europe
+666,48,Europe
+667,22,Asia
+668,52,Africa
+669,40,Europe
+670,46,South America
+671,60,Europe
+672,28,Africa
+673,35,Africa
+674,64,South America
+675,29,Europe
+676,26,Africa
+677,27,Asia
+678,61,North America
+679,34,North America
+680,55,North America
+681,24,Europe
+682,63,South America
+683,30,Africa
+684,57,Asia
+685,59,Asia
+686,26,Europe
+687,67,North America
+688,44,Europe
+689,19,South America
+690,22,South America
+691,46,Africa
+692,54,Africa
+693,55,South America
+694,36,South America
+695,25,South America
+696,65,Europe
+697,62,South America
+698,18,Asia
+699,39,North America
+700,69,South America
+701,34,North America
+702,24,Europe
+703,42,North America
+704,62,Europe
+705,21,Asia
+706,53,Europe
+707,23,Europe
+708,48,Africa
+709,36,South America
+710,61,South America
+711,56,Asia
+712,44,Asia
+713,27,South America
+714,43,Africa
+715,36,South America
+716,56,Africa
+717,20,Asia
+718,62,North America
+719,30,Asia
+720,67,Asia
+721,45,Europe
+722,37,Europe
+723,45,Europe
+724,25,Europe
+725,58,Africa
+726,56,South America
+727,18,North America
+728,20,Asia
+729,30,Africa
+730,45,North America
+731,66,Africa
+732,42,Africa
+733,50,Asia
+734,55,South America
+735,23,Europe
+736,61,South America
+737,62,Asia
+738,49,Asia
+739,62,Asia
+740,64,North America
+741,38,South America
+742,33,South America
+743,38,Africa
+744,28,Africa
+745,54,Africa
+746,53,Asia
+747,52,South America
+748,36,Asia
+749,37,North America
+750,35,Africa
+751,64,Asia
+752,58,Asia
+753,66,North America
+754,31,Europe
+755,32,South America
+756,48,Europe
+757,18,Africa
+758,20,Asia
+759,33,North America
+760,40,North America
+761,28,South America
+762,29,Europe
+763,27,South America
+764,49,Asia
+765,33,South America
+766,25,North America
+767,55,North America
+768,29,Africa
+769,41,Africa
+770,45,Asia
+771,25,Europe
+772,45,South America
+773,53,Asia
+774,43,Africa
+775,25,South America
+776,67,Africa
+777,45,South America
+778,45,Europe
+779,54,Asia
+780,58,South America
+781,53,North America
+782,44,North America
+783,34,South America
+784,26,South America
+785,50,South America
+786,37,North America
+787,30,North America
+788,45,South America
+789,65,Africa
+790,46,Africa
+791,30,Europe
+792,63,Asia
+793,52,Africa
+794,23,North America
+795,35,Africa
+796,68,Europe
+797,22,Europe
+798,64,Asia
+799,42,Africa
+800,19,North America
+801,27,North America
+802,47,South America
+803,67,North America
+804,62,Asia
+805,22,Asia
+806,50,North America
+807,18,North America
+808,35,South America
+809,49,North America
+810,64,South America
+811,66,South America
+812,28,North America
+813,38,Europe
+814,43,Europe
+815,42,South America
+816,39,North America
+817,44,Europe
+818,66,North America
+819,30,North America
+820,50,North America
+821,51,Africa
+822,58,North America
+823,52,Africa
+824,18,South America
+825,38,Europe
+826,65,Europe
+827,23,Europe
+828,45,Europe
+829,34,Europe
+830,22,Europe
+831,48,Europe
+832,22,South America
+833,55,North America
+834,20,Asia
+835,40,Africa
+836,54,Asia
+837,54,Asia
+838,27,North America
+839,27,North America
+840,36,North America
+841,34,Europe
+842,38,South America
+843,31,Europe
+844,26,South America
+845,63,South America
+846,18,Asia
+847,68,Asia
+848,62,South America
+849,30,South America
+850,21,Europe
+851,18,Europe
+852,66,Asia
+853,57,North America
+854,49,South America
+855,51,Europe
+856,45,Asia
+857,48,Europe
+858,25,South America
+859,56,South America
+860,43,Africa
+861,51,North America
+862,20,Africa
+863,67,Asia
+864,29,Europe
+865,18,Asia
+866,61,South America
+867,22,Africa
+868,47,Africa
+869,47,Africa
+870,34,Asia
+871,65,South America
+872,64,Europe
+873,40,Europe
+874,32,Asia
+875,54,Africa
+876,38,North America
+877,31,Asia
+878,19,Asia
+879,28,South America
+880,68,Europe
+881,56,Asia
+882,55,Asia
+883,51,Africa
+884,55,Africa
+885,67,North America
+886,51,South America
+887,35,North America
+888,47,Africa
+889,32,Europe
+890,44,Africa
+891,68,South America
+892,51,Africa
+893,69,South America
+894,55,South America
+895,50,South America
+896,41,South America
+897,32,South America
+898,47,Europe
+899,59,North America
+900,68,Asia
+901,34,North America
+902,22,South America
+903,46,Europe
+904,21,Africa
+905,27,Europe
+906,34,South America
+907,27,Europe
+908,34,Europe
+909,37,South America
+910,41,Europe
+911,22,Asia
+912,51,Asia
+913,23,Europe
+914,19,Africa
+915,30,South America
+916,60,Asia
+917,60,Africa
+918,65,Europe
+919,28,Africa
+920,68,North America
+921,64,Asia
+922,40,Europe
+923,33,South America
+924,48,Europe
+925,28,South America
+926,33,Europe
+927,25,Africa
+928,21,Africa
+929,57,Africa
+930,21,North America
+931,42,South America
+932,20,Africa
+933,49,North America
+934,20,South America
+935,44,Europe
+936,46,North America
+937,49,Asia
+938,67,North America
+939,68,North America
+940,36,South America
+941,38,Europe
+942,22,Asia
+943,35,Africa
+944,45,Africa
+945,59,North America
+946,39,South America
+947,38,South America
+948,23,Africa
+949,18,Asia
+950,22,Europe
+951,58,Asia
+952,29,Europe
+953,43,Africa
+954,63,Europe
+955,51,South America
+956,66,North America
+957,31,North America
+958,43,Africa
+959,62,South America
+960,44,Asia
+961,26,South America
+962,43,North America
+963,64,North America
+964,39,South America
+965,64,South America
+966,47,North America
+967,60,Asia
+968,65,Africa
+969,34,Africa
+970,43,South America
+971,53,Africa
+972,18,North America
+973,25,North America
+974,66,South America
+975,52,South America
+976,69,South America
+977,32,Asia
+978,64,Africa
+979,39,South America
+980,31,Europe
+981,43,Europe
+982,45,North America
+983,40,Africa
+984,31,South America
+985,41,Europe
+986,19,Africa
+987,62,North America
+988,43,Asia
+989,31,Africa
+990,68,Africa
+991,24,Asia
+992,20,Africa
+993,64,North America
+994,40,North America
+995,63,Asia
+996,60,South America
+997,64,Europe
+998,62,South America
+999,35,Africa
+1000,55,Europe
